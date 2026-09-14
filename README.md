@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ștefan Niță</h1>
 <p align="center"><i>Software Engineer | Backend, DevOps & Distributed Systems</i></p>
-<p align="center">Working on DNS infrastructure at IONOS — microservices, CI/CD pipelines, and observability tooling. Currently pursuing a Master's in Distributed Systems, with a growing focus on backend, DevOps, system design, and networking.</p>
+<p align="center">Working on DNS infrastructure at IONOS: microservices, CI/CD pipelines, and observability tooling. Currently pursuing a Master's in Distributed Systems, with a growing focus on backend, DevOps, system design, and networking.</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/stefan-nita-12a656267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -30,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
