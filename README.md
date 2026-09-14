@@ -2,8 +2,9 @@
 <p align="center"><i>Software Engineer | Backend, DevOps & Distributed Systems</i></p>
 <p align="center">Working on DNS infrastructure at IONOS: microservices, CI/CD pipelines, and observability tooling. Currently pursuing a Master's in Distributed Systems, with a growing focus on backend, DevOps, system design, and networking.</p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/stefan-nita-12a656267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://3d-portfolio-phi-blond.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-006400?style=flat&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <h3 align="left">Languages & Frameworks:</h3>
